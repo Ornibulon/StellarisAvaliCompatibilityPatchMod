@@ -4,5 +4,5 @@ tags={
 }
 name="Avali Compatibility Patch"
 picture="thumbnail.png"
-supported_version="3.*"
+supported_version="3.0.*"
 remote_file_id="2572549582"
